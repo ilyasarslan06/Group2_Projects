@@ -11,7 +11,7 @@ public class Task6 {
 
         int i=10;
         int i2=20;
-        float fl=12.5f;
+        float fl=12.5F;
         String metin = "Java Programming.";
         System.out.println(i);
         System.out.println(i2);
